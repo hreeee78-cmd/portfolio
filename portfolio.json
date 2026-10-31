@@ -1,0 +1,17 @@
+{
+  "owner": "민서",
+  "headline": "AI와 함께 만든 데이터 도구",
+  "intro": "매주 하나씩 만들어 올립니다. 도구마다 제가 내린 판단이 하나씩 들어 있습니다.",
+  "cards": [
+    {
+      "week": 1,
+      "title": "감 테스트",
+      "line": "공개 데이터로 정답을 직접 계산한 숫자 맞히기 퀴즈. 폰에서 풀 수 있습니다",
+      "judgment": "공휴일을 세다 라트비아 47일이 기념일까지 센 값임을 알고, Public 표시만 세도록 기준을 바꿨다. 주말 겹침 문항은 원본에서 날짜가 옮겨져 있어 뺐고, 한국 일수는 엑셀로 직접 세어 맞췄다.",
+      "ai": ["Claude Code", "v0", "Perplexity"],
+      "url": "https://gam-test-psi.vercel.app",
+      "img": "img/w1.jpg"
+    }
+  ],
+  "proposal": null
+}
