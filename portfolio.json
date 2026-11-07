@@ -19,7 +19,7 @@
       "judgment": "돈 나가는 요청을 놓치는 걸 가장 나쁜 실수로 정하고 따로 셌다. 규칙은 1건, AI는 0건 놓쳤다. 다만 문장과 정답 초안을 AI가 만들어서 점수는 좋게 나왔을 수 있다.",
       "ai": ["Claude Code", "Gemini"],
       "url": "https://my-classifier.vercel.app",
-      "img": ""
+      "img": "img/w2.png"
     }
   ],
   "proposal": null
