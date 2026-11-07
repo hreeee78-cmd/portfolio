@@ -11,6 +11,15 @@
       "ai": ["Claude Code", "Perplexity"],
       "url": "https://gam-test-psi.vercel.app",
       "img": "img/w1.jpg"
+    },
+    {
+      "week": 2,
+      "title": "고객 한마디 분류기",
+      "line": "고객 문의 한 줄을 넣으면 분류 · 감정 · 긴급도를 붙여 준다",
+      "judgment": "개인정보는 브라우저에서 가려 보낸다. 정답 100건으로 두 번 재니 감정은 AI가 규칙보다 31%p 높았고, 긴급도는 65~67%로 낮아 «높음»은 사람이 한 번 더 본다",
+      "ai": ["Claude Code", "Google AI Studio"],
+      "url": "",
+      "img": ""
     }
   ],
   "proposal": null
