@@ -20,6 +20,15 @@
       "ai": ["Claude Code", "Gemini"],
       "url": "https://my-classifier.vercel.app",
       "img": "img/w2.png"
+    },
+    {
+      "week": 3,
+      "title": "출장비 정산 정리기 — 빈 폴더에서",
+      "line": "출장비 엑셀을 끌어다 놓으면 내 처방대로 정리본과 바꾼 기록이 나옵니다. 파일은 브라우저를 떠나지 않습니다",
+      "judgment": "진단표의 줄마다 처방을 적었다. 모르는 값 22칸(빈칸 · 0을 더 친 금액 · 박수 20 · 박수 0인데 숙박비 등)은 고치지 않고 표시했다. 정답과 견주니 놓친 칸은 0이었고, 박수 0인데 숙박비가 있던 줄은 실제로 박수가 틀린 것이라 숙박비를 0으로 고쳤다면 틀렸을 것이다.",
+      "ai": ["Claude Code"],
+      "url": "https://my-cleaner-tau.vercel.app",
+      "img": ""
     }
   ],
   "proposal": null
