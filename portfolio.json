@@ -32,12 +32,12 @@
     },
     {
       "week": 4,
-      "title": "월간 보고 SQL 앱",
-      "line": "매달 추출한 엑셀을 넣으면 정해 둔 질문의 답이 SQL과 함께 나옵니다",
-      "judgment": "재문의는 비율(해지 36.0%)과 건수(요금 2,053건)를 같이 보기로 정했다",
-      "ai": ["Claude Code (MCP · 서브에이전트)", "BigQuery", "Gemini"],
-      "url": "https://sql-window-sigma.vercel.app",
-      "img": ""
+      "title": "출장비 월간 보고 SQL 앱 — 빈 폴더에서",
+      "line": "추출한 엑셀 세 개(직원 · 출장 · 정산)를 넣으면 부서별 한 명당 출장비가 SQL과 함께 나옵니다. 파일은 브라우저를 떠나지 않습니다",
+      "judgment": "정산 → 출장 → 직원 순으로 먼저 집계하고, 직원 테이블 기준으로 LEFT JOIN했다. 바로 조인하면 25,014행이 되어 한 명당 금액이 수십 분의 1로 줄고 1위가 영업본부에서 재무팀으로 바뀌었다. 숨겨 둔 정답과 다섯 가지 모두 같았다.",
+      "ai": ["Claude Code (MCP · 계획 모드)"],
+      "url": "https://my-window-iota.vercel.app",
+      "img": "img/w4.png"
     }
   ],
   "proposal": null
