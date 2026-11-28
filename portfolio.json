@@ -38,6 +38,15 @@
       "ai": ["Claude Code (MCP · 계획 모드)"],
       "url": "https://my-window-iota.vercel.app",
       "img": "img/w4.png"
+    },
+    {
+      "week": 5,
+      "title": "지표 사전",
+      "line": "지표마다 정의서 한 장을 두고, 카드 · 대시보드 · 계보가 그 정의서대로만 계산해 보여 주는 지표 사전입니다",
+      "judgment": "대시보드 위에는 월말 유지 고객 수 · 활성 고객 비율 · 고객당 매출을 크게 두었다. 셋 다 그 달 말일에 가입 상태인 고객을 기준으로 지금 상태를 판단하는 지표이고, 활성 고객 비율과 고객당 매출의 분모가 바로 그 고객이다. 상담 만족도는 분모가 그 달 설문에 응답한 문의뿐인 작은 비율이라, 한 달 값보다 흐름을 보도록 아래 월별 추이로 내렸다.",
+      "ai": ["Claude Code"],
+      "url": "https://metric-dictionary-gamma.vercel.app",
+      "img": "img/w5.png"
     }
   ],
   "proposal": null
